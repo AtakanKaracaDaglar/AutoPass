@@ -1,0 +1,17 @@
+{
+  "name": "autopass",
+  "version": "1.0.0",
+  "description": "Secure Password Generator Web App",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "dev": "npx http-server -p 8080 -o"
+  },
+  "keywords": [
+    "password",
+    "generator",
+    "security"
+  ],
+  "author": "Atakan",
+  "license": "ISC"
+}
